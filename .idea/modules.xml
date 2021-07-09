@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MariaDB.iml" filepath="$PROJECT_DIR$/.idea/MariaDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Nextcloud.iml" filepath="$PROJECT_DIR$/.idea/Nextcloud.iml" />
     </modules>
   </component>
 </project>
